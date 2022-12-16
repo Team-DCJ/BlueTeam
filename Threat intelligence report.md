@@ -1,7 +1,8 @@
-Completed threat intelligence and incident response report:
+**Completed threat intelligence and incident response report**
+
 https://docs.google.com/document/d/1RBh3ILT8TWXppkGo8tWYG3W_XjWL2rYL1REDGXHPqwk/edit?usp=sharing
 
-***Data Flow Diagram***
+**Data Flow Diagram**
 
 Before:
 ![Screenshot (118)](https://user-images.githubusercontent.com/97658998/208058243-0af46a7e-7cb4-4531-a93c-8cdfca4b7332.png)
